@@ -14,6 +14,6 @@ public class MyFirstProject {
         System.out.println("My favorite color is Pink.");
         System.out.println("If I won the lottery, I would get a bunch of hookers and cocaine.");
         // This is a meme. I am not being serious. 
-                
+                 
     }
 }
